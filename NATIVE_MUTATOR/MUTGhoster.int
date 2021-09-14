@@ -1,0 +1,8 @@
+[Public]
+Object=(Name=MUTGhoster.eGhostMut,Class=Class,MetaClass=Engine.Mutator,Description="Native Ghost Boy"))
+Object=(Name=MUTGhoster.eZeroDamage,Class=Class,MetaClass=Engine.Mutator,Description="Native Zero Damage"))
+Object=(Name=MUTGhoster.eTestHUDMut,Class=Class,MetaClass=Engine.Mutator,Description="Native Test HUD"))
+Object=(Name=MUTGhoster.eProMesMut,Class=Class,MetaClass=Engine.Mutator,Description="Native Pro Message"))
+Object=(Name=MUTGhoster.eLensFlareMut,Class=Class,MetaClass=Engine.Mutator,Description="Native Lens Flares"))
+Object=(Name=MUTGhoster.eSim_HDRMut,Class=Class,MetaClass=Engine.Mutator,Description="Native HDR"))
+Object=(Name=MUTGhoster.eSArenaMut,Class=Class,MetaClass=Engine.Mutator,Description="Native Arena"))
